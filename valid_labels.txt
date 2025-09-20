@@ -1198,6 +1198,9 @@
 8f7f6c1366164088bd20aa51503b0fcd.png	5+5=
 8f7f6c1366164088bd20aa51503b0fcd_gray.png	5+5=
 8f7f6c1366164088bd20aa51503b0fcd_thresh.png	5+5=
+8f91ebeb814b4c1e8f63bcc5160a96d4.png	0+7=
+8f91ebeb814b4c1e8f63bcc5160a96d4_gray.png	0+7=
+8f91ebeb814b4c1e8f63bcc5160a96d4_thresh.png	0+7=
 8fdcf109fee3495489ca273f674baae1.png	7+1=
 8fdcf109fee3495489ca273f674baae1_gray.png	7+1=
 8fdcf109fee3495489ca273f674baae1_thresh.png	7+1=
