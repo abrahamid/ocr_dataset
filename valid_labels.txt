@@ -451,9 +451,9 @@
 2cb021ad3fb34245a6f04ec240e1ad93.png	9+8=
 2cb021ad3fb34245a6f04ec240e1ad93_gray.png	9+8=
 2cb021ad3fb34245a6f04ec240e1ad93_thresh.png	9+8=
-2cccbc9739b64d50b097d45d4fd29f35.png	4+8=
-2cccbc9739b64d50b097d45d4fd29f35_gray.png	4+8=
-2cccbc9739b64d50b097d45d4fd29f35_thresh.png	4+8=
+2cccbc9739b64d50b097d45d4fd29f35.png	4+9=
+2cccbc9739b64d50b097d45d4fd29f35_gray.png	4+9=
+2cccbc9739b64d50b097d45d4fd29f35_thresh.png	4+9=
 2d16272fa34f43bea50be2fdb2b71a05.png	9+1=
 2d16272fa34f43bea50be2fdb2b71a05_gray.png	9+1=
 2d16272fa34f43bea50be2fdb2b71a05_thresh.png	9+1=
