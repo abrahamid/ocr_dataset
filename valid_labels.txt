@@ -784,6 +784,9 @@
 4c39b7ea8ef84ef7ac46eacbbaf3ee66.png	1+0=
 4c39b7ea8ef84ef7ac46eacbbaf3ee66_gray.png	1+0=
 4c39b7ea8ef84ef7ac46eacbbaf3ee66_thresh.png	1+0=
+4cd15f41936f48a2b9971036f2295b60.png	2+7=
+4cd15f41936f48a2b9971036f2295b60_gray.png	2+7=
+4cd15f41936f48a2b9971036f2295b60_thresh.png	2+7=
 4cfad0ab3a274a94bb6118abcbd388dd.png	7+5=
 4cfad0ab3a274a94bb6118abcbd388dd_gray.png	7+5=
 4cfad0ab3a274a94bb6118abcbd388dd_thresh.png	7+5=
@@ -1525,6 +1528,9 @@
 8f91ebeb814b4c1e8f63bcc5160a96d4.png	0+7=
 8f91ebeb814b4c1e8f63bcc5160a96d4_gray.png	0+7=
 8f91ebeb814b4c1e8f63bcc5160a96d4_thresh.png	0+7=
+8faf98d8172047d1a74bf718e04997cd.png	6+0=
+8faf98d8172047d1a74bf718e04997cd_gray.png	6+0=
+8faf98d8172047d1a74bf718e04997cd_thresh.png	6+0=
 8fdcf109fee3495489ca273f674baae1.png	7+1=
 8fdcf109fee3495489ca273f674baae1_gray.png	7+1=
 8fdcf109fee3495489ca273f674baae1_thresh.png	7+1=
